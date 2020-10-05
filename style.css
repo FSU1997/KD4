@@ -1,0 +1,48 @@
+body {
+	font-family: 'Quicksand', sans-serif;
+}
+h1, h2 {
+	text-align: center;
+	margin: auto;
+	padding: 5px;
+}
+h1{
+	font-size: 400%;
+}
+h2	{
+	font-size: 200%;
+	color: grey;
+}
+.collum {
+	display: inline-block;
+	margin: auto;
+	padding: 50px;
+
+}
+a {
+	color: #3455eb;
+	text-decoration: none;
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+ul {
+	list-style-type: none;
+}
+li h4 i {
+	padding-left: 350px;
+	color: grey;
+	float: right;
+}
+li p i {
+	font-size: 5px;
+	color: #3455eb;
+}
+h4 {
+	font-size: 200%;
+	margin:auto;
+	font-weight: bold;
+}
+ul li {
+    border-bottom:3px solid #bec1c4;
+    margin-bottom: 10px;
+}
